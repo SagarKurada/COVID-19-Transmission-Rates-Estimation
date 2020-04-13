@@ -4,6 +4,4 @@ Data: This dataset is from Our World in Data. Every time you run this code block
 
 What is the project about?
 
-As we are having the data of the COVID-19 transmisssion rates on day to day basis, the main aim of the project is to build 
-a hypothetical model for calculating the transimmison rates of the COVID-19 for the future dates using SIR epidemic mathematical
-model.
+The main aim of the project is to build a hypothetical model for predicting the transimmison rates of the COVID-19 for the future dates using SIR epidemic mathematical model.
